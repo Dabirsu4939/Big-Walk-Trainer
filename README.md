@@ -73,12 +73,6 @@ The trainer ships with **Host-only mode** enabled by default for exactly this re
 
 ## Features
 
-<p align="center">
-    <a href="https://github.com/Crushflalead/YarnPikeman60/Big-Walk-Trainer/latest/download/BigWalkTrainer.zip">
-        <img src="assets/example1.png" width="100%" alt="Download Big Walk Trainer">
-    </a>
-</p>
-
 40+ options across seven tabs. Sliders show the shipped default; ranges are listed where they matter.
 
 ### Walk — movement cheats
